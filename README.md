@@ -1,6 +1,6 @@
 # Student Seeking Software Engineering Internship | CS @ GMU
 
-Hi, my name is **Christian**, and I'm working towards a bachelor’s degree in computer science with a minor in mathematics. I've been programming for six years through courses taught at my high school, where the main focus was Java, and through university coursework. I’ve strengthened my software development skills through various projects. Overall, I enjoy any area that is technical in nature, and the fields of computer programming and math attest to that enjoyment. I also love communicating my ideas to others and hearing different perspectives regarding computer science.
+Hi, my name is **Christian**, and I'm working towards a bachelor’s degree in computer science. I've been programming for six years through courses taught at my high school, where the main focus was Java, and through university coursework. I’ve strengthened my software development skills through various projects. Overall, I enjoy any area that is technical in nature, and the fields of computer programming and math attest to that enjoyment. I also love communicating my ideas to others and hearing different perspectives regarding computer science.
 
 ## Skills and Technologies
 - **Programming Languages:** Java, C++, C, C#, HTML, JavaScript, Python, CSS
