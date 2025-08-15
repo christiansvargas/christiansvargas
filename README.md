@@ -10,6 +10,12 @@ Hi, my name is **Christian**, and I'm working towards a bachelor’s degree in c
 
 ## Past Projects
 
+### **Spotify Music Recommendation System**
+**Description:**  
+- Designed and implemented a personalized music recommendation system through machine learning in Python; developed a system that uses content-based filtering with cosine similarity to figure out what to recommend the user based on features of songs they like.
+- Optimized for scalability and responsiveness, implementing a model that can efficiently generate recommendations for large datasets in real time.
+- Practiced thorough documentation by creating a comprehensive README detailing project setup, usage instructions and methodology; incorporated clear inline comments to explain code logic; and maintained version control through a well-structured GitHub repository, ensuring ease of collaboration, reproducibility and future scalability.
+
 ### **Hackathon Project: Apollo AI**
 **Summary:**  
 Apollo AI is a versatile platform that integrates multiple APIs with Amazon's Alexa to process and summarize documents, designed with a focus on student use and accessibility for users with disabilities. The system handles a wide range of AI tasks, making it adaptable for different use cases.
