@@ -6,10 +6,10 @@ Hi, my name is **Christian**, and I'm working towards a bachelor’s degree in c
 [christiansvargas.github.io/portfolio](https://christiansvargas.github.io/portfolio/)
 
 ## Skills and Technologies
-- **Languages**: Java, HTML/CSS, JavaScript, Python, C, R
-- **Frameworks/Libraries**: NumPy, Pandas, scikit-learn, OpenAI API, Alexa Skills Kit (ASK), Agent Development Kit (ADK), React, Node.js, Swing
-- **Developer Tools**: Git, GitHub, Unix/Linux, AWS Lambda, Visual Studio Code
-- **Security**: SHA-256, Advanced Encryption Standard (AES)
+- **Programming and Web**: Java, Python, JavaScript, C, React, Node.js, HTML / CSS, XML, UI / UX, R, Swing
+- **Data and AI**: Google Agent Development Kit (ADK), NumPy, Pandas, scikit-learn, Leaflet, GeoJSON, OpenStreetMap
+- **Cloud / Tools and APIs**: Google Cloud, Firebase, Git / GitHub, AWS Lambda, OpenAI, REST APIs
+- **Platforms and Security**: Unix / Linux, Alexa Skills Kit (ASK), SHA-256, AES
 
 ## Past Projects
 
