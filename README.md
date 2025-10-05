@@ -7,12 +7,19 @@ Hi, my name is **Christian**, and I'm working towards a bachelor’s degree in c
 
 ## Skills and Technologies
 - **Languages**: Java, HTML/CSS, JavaScript, Python, C, R
-- **Frameworks/Libraries**: NumPy, Pandas, scikit-learn, OpenAI API, Alexa Skills Kit (ASK), React, Node.js, Swing
+- **Frameworks/Libraries**: NumPy, Pandas, scikit-learn, OpenAI API, Alexa Skills Kit (ASK), Agent Development Kit (ADK), React, Node.js, Swing
 - **Developer Tools**: Git, GitHub, Unix/Linux, AWS Lambda, Visual Studio Code
 - **Security**: SHA-256, Advanced Encryption Standard (AES)
-- **Other**: 3D Printing, Computer-Aided Design (CAD)
 
 ## Past Projects
+
+### **Google DevFest DC 25 Hackathon Project: GridWatch**
+- Frontend lead on a 4-person team; designed and built a responsive city dashboard with a map/heatmap pane, live incident list/cards, KPI tiles and a print-ready report view.
+- Consumed strict-JSON outputs from the agentic AI orchestrator; implemented client-side filtering, severity sorting, bbox bounds and periodic refresh for real-time updates.
+- Added lightweight state management (localStorage) for city selection and layer toggles; shipped mobile-first UI with safe-area insets and accessible semantics.
+- Collaborated on product direction and data model; documented the UI contract for agent outputs and created stub data to unblock integration during the build.
+- **Outcome**: shipped MVP in ~7 hours, placed 2nd overall, and invited to present during DC Startup & Tech Week.
+- **Live**: [gridwatch.dev](https://gridwatch.dev/) • **GitHub**: [github.com/VargasChristopher/GridWatch](https://github.com/VargasChristopher/GridWatch)
 
 ### **Spotify Music Recommendation System**
 - Built a Python-based music recommendation engine using machine learning techniques such as content-based
