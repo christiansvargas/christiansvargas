@@ -13,6 +13,13 @@ Hi, my name is **Christian**, and I'm working towards a bachelor’s degree in c
 
 ## Past Projects
 
+### **Hackathon Project: Apollo Hub/Core**
+- Developed the frontend for Apollo Hub, the unified web and mobile control panel for the Jetson-powered Apollo Core local voice assistant, using React Native with Expo to support cross-platform interactions.
+- Designed and implemented a responsive UI/UX for managing ApolloAI interactions and GE Cync smart bulb lighting scenes, enabling users to control smart lighting and scenes directly within the app.
+- Integrated real-time lighting API communication so lighting scenes update physical smart bulbs instantly, connecting the frontend with local APIs hosted on Home Assistant via a custom bridge.
+- Built and deployed the web release pipeline using Expo, GitHub Actions, and GitHub Pages with a custom domain, ensuring live, production-ready access to the Apollo Hub interface during and after the hackathon, and earned a follow-up technical discussion with a Microsoft project manager regarding the project and our startup’s direction.
+- **Devpost**: [devpost.com/software/apollo-technologies](https://devpost.com/software/apollo-technologies)
+
 ### **Google DevFest DC 25 Hackathon Project: GridWatch**
 - Frontend lead on a 4-person team; designed and built a responsive city dashboard with a map/heatmap pane, live incident list/cards, KPI tiles and a print-ready report view.
 - Consumed strict-JSON outputs from the agentic AI orchestrator; implemented client-side filtering, severity sorting, bbox bounds and periodic refresh for real-time updates.
