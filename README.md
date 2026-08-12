@@ -1,14 +1,14 @@
-# Student Seeking Software Engineering Internship | CS @ GMU
+# Software Engineer | CS @ GMU | Graduating 2026
 
-Hi, my name is **Christian**, and I'm working towards a bachelor’s degree in computer science. I've been programming for six years through courses taught at my high school, where the main focus was Java, and through university coursework. I’ve strengthened my software development skills through various projects. Overall, I enjoy any area that is technical in nature, and the fields of computer programming and math attest to that enjoyment. I also love communicating my ideas to others and hearing different perspectives regarding computer science.
+Hi, my name is Christian, and I'm working towards a bachelor’s degree in computer science. I've been programming for eight years through courses taught at my high school, where the main focus was Java, and through university coursework. I’ve also strengthened my software development skills through various personal projects and hackathons. Overall, I enjoy any area that is technical in nature, and the fields of computer programming and math attest to that enjoyment. I also love communicating my ideas to others and hearing different perspectives regarding computer science.
 
 ## Portfolio
 [christiansvargas.github.io/portfolio](https://christiansvargas.github.io/portfolio/)
 
 ## Skills and Technologies
-- **Programming and Web**: Java, Python, JavaScript / TypeScript, C, React, Node.js, HTML / CSS, Kotlin, XML, UI / UX, R, Swing
-- **Data and AI**: Google Agent Development Kit (ADK), NumPy, Pandas, scikit-learn, Leaflet, GeoJSON, OpenStreetMap
-- **Cloud / Tools and APIs**: Google Cloud, Firebase, Git / GitHub, AWS Lambda, OpenAI, REST APIs
+- **Programming and Web**: Java, Python, JavaScript / TypeScript, C, React, Node.js, HTML / CSS, Kotlin, XML, UI / UX, R, Java Servlet API, Swing
+- **Data, AI and Databases**: Google ADK, NumPy, Pandas, scikit-learn, MySQL, Leaflet, GeoJSON, OpenStreetMap
+- **Cloud, Tools, and APIs**: Google Cloud, Firebase, Git / GitHub, AWS Lambda, OpenAI, REST APIs, Agile
 - **Platforms and Security**: Unix / Linux, Alexa Skills Kit (ASK), SHA-256, AES
 
 ## Past Projects
